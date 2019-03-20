@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "parcel build src/background.mjs"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.2"
+  }
+}
